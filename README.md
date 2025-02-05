@@ -1,8 +1,10 @@
 # Desafio-dio_SQL_Oficina_mecanica
 ## Esquema conceitual oficina mecânica
 Neste desafio eu criei um esquema conceitual que abrange um sistema que irá gerenciar e controlar a criação de ordens de serviço realizadas pela empresa.
+
 **Dada a seguinte narrativa:**
-	Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas.
+
+    Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas.
 	Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
 	A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão de obra.
 	O valor de cada peça também irá compor a OS. O cliente autoriza a execução dos serviços.
